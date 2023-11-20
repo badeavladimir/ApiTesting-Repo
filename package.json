@@ -1,0 +1,16 @@
+{
+  "name": "pactum-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pactumjs": "mocha tests/*"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "pactum": "^3.5.1"
+  }
+}
